@@ -1,0 +1,17 @@
+nav {
+    height: 100px;
+    background-color: rgb(154, 154, 154);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+a.active, a {
+   font-size: 20px;
+   text-decoration: none;
+   font-weight: 600;
+}
+
+a.active {
+    color: black;
+}

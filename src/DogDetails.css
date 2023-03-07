@@ -1,0 +1,20 @@
+.DogDetails h1 {
+    text-align: center;
+}
+
+.DogDetails img {
+    margin-top: 50px;
+    margin-left: 100px;
+    
+}
+
+.DogDetails-details {
+   width: 500px;
+   float: right;
+   margin-right: 230px;
+   margin-top: 200px;
+   background-color: rgb(175, 175, 175);
+   border-radius: 10px;
+   box-shadow: 1px 1px 10px black;
+   font-size: 24px;
+}
